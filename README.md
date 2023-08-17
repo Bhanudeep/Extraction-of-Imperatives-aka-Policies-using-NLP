@@ -6,4 +6,4 @@ imperatives by training model on custom dataset consisting of text and its corre
 custom dataset.  
 • Training.ipynb file consists training notebook where we have applied transfer learning technique to achieve our goal of extracting imperatives from a given text.  
 • train.json consists example dataset used to train our model.  
-• Policyxtractor.ipynb consist of various functions like extracting text from a pdf file, splitting it into chunks, processing the extracted data to fit the model we built.  
+• Policyxtractor.ipynb consist of various functions like extracting text from a pdf file, splitting it into chunks, processing the extracted data to fit the model we built.   
